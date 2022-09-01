@@ -58,5 +58,5 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Link
 [earth](https://www.google.com/maps)
 ### Test Image
-![Baseball](images/Google Lens.html)
+![Baseball](images/usa-mlb-baseball.jpg)
 ### Test GIF
