@@ -60,7 +60,6 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 ### Test Image
 ![Baseball](images/usa-mlb-baseball.jpg)
 ### Test GIF
- ![Weird orange gif thing](images/weird orange thing.gif)  
+ ![Weird orange gif thing}(images/weird%20orange%20thing.gif)
 
-)  
 
