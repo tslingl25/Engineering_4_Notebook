@@ -8,7 +8,7 @@
 
 &nbsp;
 
-## Raspberry_Pi_Assignment_Template
+## Countdown
 
 ### Countdown on serial moniter from ten, then print "LIFTOFF"
 
@@ -37,6 +37,23 @@ This assignment was good for learning for me as I feel like it was really the fi
 
 &nbsp;
 
+## Launch Pad Part 2 (Lights)
+
+### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
+Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.
+
+### Evidence 
+![gif1](https://user-images.githubusercontent.com/71349802/194382350-03dc24a8-34e1-4804-8bcf-6beab65a4ade.gif)
+
+### Wiring
+![snippp0pppp](https://user-images.githubusercontent.com/71349802/194383034-36ef569f-26d4-4c10-ab9f-afbefe5a2db1.PNG)
+### Code
+![snippy](https://user-images.githubusercontent.com/71349802/194383375-ca548d2d-fda8-4574-954c-8b6e31e86aac.PNG)
+
+### Reflection
+This assignment included lots of laerning for me, there were no huge hang ups but it is definitly smart to copy your lines from old code as even the smallest thing can mess it up.
+
+&nbsp;
 ## Onshape_Assignment_Template
 
 ### Assignment Description
