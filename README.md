@@ -54,6 +54,55 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 This assignment included lots of laerning for me, there were no huge hang ups but it is definitly smart to copy your lines from old code as even the smallest thing can mess it up.
 
 &nbsp;
+
+## Launch Pad Part 3 (Button)
+
+### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. 
+
+
+### Evidence 
+![giffyyssss](https://user-images.githubusercontent.com/71349802/194621135-c7985bb5-7883-425c-acad-edab784ceebc.gif)
+
+
+### Wiring
+![snippers1](https://user-images.githubusercontent.com/71349802/194621399-b6b97d0d-d0b1-41d8-aa76-12572d69e2be.PNG)
+
+
+### Code
+# type: ignore
+import board
+import digitalio
+import time
+
+led = digitalio.DigitalInOut(board.GP15)
+led2 = digitalio.DigitalInOut(board.GP16)
+led.direction = digitalio.Direction.OUTPUT
+led2.direction = digitalio.Direction.OUTPUT
+button = digitalio.DigitalInOut(board.GP0)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.DOWN
+
+while True:
+  print(button.value)
+
+  if(button.value == True):
+    for x in range(10, 0, -1):
+      time.sleep(.25)
+      print (x)
+      time.sleep(.25)
+      led.value = True
+      time.sleep(.25)
+      led.value = False
+      time.sleep(.25)
+    time.sleep(.25)
+    print("liftoff")
+    while True:
+      led2.value = True
+
+### Reflection
+This assignment was pretty straight foward. It may be helpful to know that the button has four legs but you only need 2.
+
+&nbsp;
 ## Onshape_Assignment_Template
 
 ### Assignment Description
