@@ -102,6 +102,27 @@ while True:
 ### Reflection
 This assignment was pretty straight foward. It may be helpful to know that the button has four legs but you only need 2.
 
+## Table of Contents
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Onshape_Assignment_Template](#onshape_assignment_template)
+
+&nbsp;
+
+## Launch Pad Part 4 (Servo)
+
+### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting.
+
+### Evidence 
+![Gif](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/blahhhh.gif)
+
+### Wiring
+![Wiring](https://user-images.githubusercontent.com/71349802/195159523-34621bbb-031e-4adc-aa78-fff005f2c74c.PNG)
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/commit/125b7fe05469b8bc9d31bba48ebbf2503a5d9ebc
+
+### Reflection
+The assignment itself was not hard but github was being VERY difficult. It wouldnt let be put my gif in, then it would let me put my code in. If you find yourself with github being annoying, just upload stuff too it like 100 times then it will eventually work.
 &nbsp;
 ## Onshape_Assignment_Template
 
