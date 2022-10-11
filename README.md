@@ -140,8 +140,7 @@ The assignment itself was not hard but github was being VERY difficult. It would
 [https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 ](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
 ### Reflection
-This assignment was good for learning for me as I feel like it was really the first time ive coded, it is good to ask your neighbors for help, Ezhar was very helpful.
-
+Assignment was straight forward but make sure you READ DIRECTIONS. It is easy to miss small but important things.
 &nbsp;
 
 ## Onshape_Assignment_Template
