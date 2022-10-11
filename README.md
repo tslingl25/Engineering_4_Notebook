@@ -123,7 +123,27 @@ https://github.com/tslingl25/Engineering_4_Notebook/commit/125b7fe05469b8bc9d31b
 
 ### Reflection
 The assignment itself was not hard but github was being VERY difficult. It wouldnt let be put my gif in, then it would let me put my code in. If you find yourself with github being annoying, just upload stuff too it like 100 times then it will eventually work.
+
+
 &nbsp;
+
+## Crash Avoidance Part 1 (Accelerometer)
+
+### The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+
+### Evidence 
+![Evidence]:https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/jrtdjyrduyjrdiyrdiyrtdidyrdyidrytdgtjgfxfdgjrgfdj.gif
+
+### Wiring
+[None](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
+### Code
+[https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
+### Reflection
+This assignment was good for learning for me as I feel like it was really the first time ive coded, it is good to ask your neighbors for help, Ezhar was very helpful.
+
+&nbsp;
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
