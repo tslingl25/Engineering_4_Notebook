@@ -110,7 +110,8 @@ This assignment was pretty straight foward. It may be helpful to know that the b
 
 ## Launch Pad Part 4 (Servo)
 
-### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting.
+### Description 
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting.
 
 ### Evidence 
 ![Gif](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/blahhhh.gif)
@@ -129,7 +130,8 @@ The assignment itself was not hard but github was being VERY difficult. It would
 
 ## Crash Avoidance Part 1 (Accelerometer)
 
-### The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+### Description 
+The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
 
 ### Evidence 
 ![image](https://user-images.githubusercontent.com/71349802/195905884-8ce980cc-6d77-4220-9910-e220035758f9.png)
@@ -140,7 +142,27 @@ The assignment itself was not hard but github was being VERY difficult. It would
 ](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
 ### Reflection
 Assignment was straight forward but make sure you READ DIRECTIONS. It is easy to miss small but important things.
+
 &nbsp;
+
+## Crash Avoidance Part 2 (Light + Powerboost)
+
+### Description
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.The module must have an LED that turns on if the helicopter is tilted to 90 degrees. The module must be powered by a mobile power source. 
+
+
+### Evidence
+![image](https://user-images.githubusercontent.com/71349802/195912943-317976a8-38fa-422f-b9fb-50b84737352a.png)
+### Wiring
+[Wiring](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+
+### Reflection
+This assignment was good for learning for me as I feel like it was really the first time ive coded, it is good to ask your neighbors for help, Ezhar was very helpful.
+
+&nbsp;
+
 
 ## Onshape_Assignment_Template
 
