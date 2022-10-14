@@ -132,10 +132,9 @@ The assignment itself was not hard but github was being VERY difficult. It would
 ### The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
 
 ### Evidence 
-![Evidence]:https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/jrtdjyrduyjrdiyrdiyrtdidyrdyidrytdgtjgfxfdgjrgfdj.gif
-
+![image](https://user-images.githubusercontent.com/71349802/195905884-8ce980cc-6d77-4220-9910-e220035758f9.png)
 ### Wiring
-[None](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
+[Wiring](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
 ### Code
 [https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 ](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
