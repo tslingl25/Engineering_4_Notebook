@@ -164,6 +164,23 @@ Make sure you run the code on the pico in code.py, and make sure the battery is 
 &nbsp;
 
 
+## Crash Avoidance Part 3 (OLED)
+
+### Description
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.The module must have an LED that turns on if the helicopter is tilted to 90 degrees. The module must be powered by a mobile power source. The module must have an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/71349802/196249026-39dd6bff-6c5e-4511-86f3-0b8013831317.png)
+### Wiring
+![Wiring](https://user-images.githubusercontent.com/71349802/196249434-076a3ce6-47dd-4141-bec4-f646251b8645.png)
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+
+### Reflection
+Read directionas and make sure you use the right code for each device.
+&nbsp;
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
