@@ -159,7 +159,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 
 ### Reflection
-This assignment was good for learning for me as I feel like it was really the first time ive coded, it is good to ask your neighbors for help, Ezhar was very helpful.
+Make sure you run the code on the pico in code.py, and make sure the battery is charged.
 
 &nbsp;
 
