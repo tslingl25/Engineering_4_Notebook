@@ -179,6 +179,29 @@ https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.
 
 ### Reflection
 Read directionas and make sure you use the right code for each device.
+
+
+&nbsp;
+
+
+## Landing Area Part 1 (Functions)
+
+### Description
+The code must ask for the user to input a set of three coordinates in (x,y) format. The triangle area must be determined using a function. If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km. The code must return to the input stage after printing the area, and wait for user input.
+
+### Evidence
+![da ting](https://user-images.githubusercontent.com/71349802/197024371-7580fed4-8911-4aa2-9ded-2d23a83aad13.gif)
+
+### Wiring
+NONE
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+
+### Reflection
+This assignment started off stuck in the mud. Once I started reading diections it got eaisier. Looking at mr.millers more help code section heled alot as it provided a format.
+
+
 &nbsp;
 
 ## Onshape_Assignment_Template
