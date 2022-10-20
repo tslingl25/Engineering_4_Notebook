@@ -102,7 +102,85 @@ while True:
 ### Reflection
 This assignment was pretty straight foward. It may be helpful to know that the button has four legs but you only need 2.
 
+## Table of Contents
+* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Onshape_Assignment_Template](#onshape_assignment_template)
+
 &nbsp;
+
+## Launch Pad Part 4 (Servo)
+
+### Description 
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. Actuate a 180 degree servo on liftoff to simulate the launch tower disconnecting.
+
+### Evidence 
+![Gif](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/blahhhh.gif)
+
+### Wiring
+![Wiring](https://user-images.githubusercontent.com/71349802/195159523-34621bbb-031e-4adc-aa78-fff005f2c74c.PNG)
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/commit/125b7fe05469b8bc9d31bba48ebbf2503a5d9ebc
+
+### Reflection
+The assignment itself was not hard but github was being VERY difficult. It wouldnt let be put my gif in, then it would let me put my code in. If you find yourself with github being annoying, just upload stuff too it like 100 times then it will eventually work.
+
+
+&nbsp;
+
+## Crash Avoidance Part 1 (Accelerometer)
+
+### Description 
+The module must have an accelerometer that continuously reports x, y, and z acceleration values on the serial monitor.
+
+### Evidence 
+![image](https://user-images.githubusercontent.com/71349802/195905884-8ce980cc-6d77-4220-9910-e220035758f9.png)
+### Wiring
+[Wiring](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
+### Code
+[https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
+### Reflection
+Assignment was straight forward but make sure you READ DIRECTIONS. It is easy to miss small but important things.
+
+&nbsp;
+
+## Crash Avoidance Part 2 (Light + Powerboost)
+
+### Description
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.The module must have an LED that turns on if the helicopter is tilted to 90 degrees. The module must be powered by a mobile power source. 
+
+
+### Evidence
+![image](https://user-images.githubusercontent.com/71349802/195912943-317976a8-38fa-422f-b9fb-50b84737352a.png)
+### Wiring
+[Wiring](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/images/WIN_20221011_14_01_31_Pro.jpg)
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+
+### Reflection
+Make sure you run the code on the pico in code.py, and make sure the battery is charged.
+
+&nbsp;
+
+
+## Crash Avoidance Part 3 (OLED)
+
+### Description
+The module must have an accelerometer that continuously reports x, y, and z acceleration values.The module must have an LED that turns on if the helicopter is tilted to 90 degrees. The module must be powered by a mobile power source. The module must have an onboard screen that prints x, y, and z angular velocity values (rad/s) rounded to 3 decimal places.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/71349802/196249026-39dd6bff-6c5e-4511-86f3-0b8013831317.png)
+### Wiring
+![Wiring](https://user-images.githubusercontent.com/71349802/196249434-076a3ce6-47dd-4141-bec4-f646251b8645.png)
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
+
+### Reflection
+Read directionas and make sure you use the right code for each device.
+&nbsp;
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
