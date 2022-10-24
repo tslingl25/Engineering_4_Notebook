@@ -204,6 +204,28 @@ This assignment started off stuck in the mud. Once I started reading diections i
 
 &nbsp;
 
+## Landing Area Part 2 (Plotting)
+
+### Description
+The code must ask for the user to input a set of three coordinates in (x,y) format. The triangle area must be determined using a function. If the user inputs coordinates incorrectly (letters or improper format) the code should return to the input stage, it should not throw an error or exit the script. The triangle area must be printed to the screen in this format: “The area of the triangle with vertices (x,y), (x,y), (x,y) is {area} square km. The code must return to the input stage after printing the area, and wait for user input. An onboard OLED screen must plot each triangle on a graph relative to the base location.
+
+### Evidence
+![image](https://user-images.githubusercontent.com/71349802/197593871-f19b71e9-a6f1-47bd-9a0a-018374835eeb.png)
+
+
+
+### Wiring
+![WIN_20221024_13_46_20_Pro](https://user-images.githubusercontent.com/71349802/197591932-df64e202-0e63-4a3d-9fac-645f0fa936eb.jpg)
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/landgarea2.py
+
+### Reflection
+It is helpful to remember that when doing I2c stuff with only one I2C device, you dont need to use multiple addresses. Make sure you dont import more stuff than you need, as that can lead to a syntax error. Look over code for un-needed bits because that can mess up the final prduct. It is also important too make sure you have the pins right becasue they are numbered different than they actually are.
+
+&nbsp;
+
+
 ## Onshape_Assignment_Template
 
 ### Assignment Description
