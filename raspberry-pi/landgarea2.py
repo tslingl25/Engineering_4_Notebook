@@ -32,7 +32,7 @@ def triangle_area(x1y1,x2y2,x3y3):
         vline = Line(0,32,128,32, color=0xFFFF00)
         splash.append(vline) 
         circle = Circle(64, 32, 4, outline=0xFFFF00)
-       g splash.append(circle)
+        splash.append(circle)
         triangle = Triangle(int(x1)+64, -int(y1)+32, int(x2)+64, -int(y2)+32, int(x3)+64, -int(y3)+32, outline=0xFFFF00)
         splash.append(triangle)
         display.show(splash)
