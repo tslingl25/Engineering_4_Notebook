@@ -10,16 +10,18 @@
 
 ## Countdown
 
-### Countdown on serial moniter from ten, then print "LIFTOFF"
+### Description 
+Countdown on serial moniter from ten, then print "LIFTOFF"
 
 ### Evidence 
+I have this as my evidence because there was no wireing or external function
 
-import board
+import board 
 import digitalio
 import time
 
 
-for x in range(10, 0, -1):
+for x in range(10, 0, -1): #This shows that it will count down between 10 and -1
   time.sleep(.5)
   print (x)
   time.sleep(.5)
@@ -33,13 +35,14 @@ None
 https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 
 ### Reflection
-This assignment was good for learning for me as I feel like it was really the first time ive coded, it is good to ask your neighbors for help, Ezhar was very helpful.
+This assignment was good for learning for me as I feel like it was really the first time ive coded. It is good to ask your neighbors for help, Ezhar was very helpful. Make sure your computer has all the needed librarys in the lib folder.
 
 &nbsp;
 
 ## Launch Pad Part 2 (Lights)
 
-### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
+### Description
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.
 Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.
 
 ### Evidence 
@@ -51,13 +54,14 @@ Blink a red light each second of the countdown, and turn on a green LED to signi
 ![snippy](https://user-images.githubusercontent.com/71349802/194383375-ca548d2d-fda8-4574-954c-8b6e31e86aac.PNG)
 
 ### Reflection
-This assignment included lots of laerning for me, there were no huge hang ups but it is definitly smart to copy your lines from old code as even the smallest thing can mess it up.
+This assignment included lots of laerning for me, there were no huge hang ups but it is definitly smart to copy your lines from old code as even the smallest thing can mess it up. Make sure you have your LED prongs oriented right. Make sure to use the right amount of power or use a resitor as you can fry alot of LEDs.
 
 &nbsp;
 
 ## Launch Pad Part 3 (Button)
 
-### Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. 
+### Description
+Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial monitor.Blink a red light each second of the countdown, and turn on a green LED to signify liftoff.Include a physical button that starts the countdown. 
 
 
 ### Evidence 
@@ -75,7 +79,7 @@ import digitalio
 import time
 
 led = digitalio.DigitalInOut(board.GP15)
-led2 = digitalio.DigitalInOut(board.GP16)
+led2 = digitalio.DigitalInOut(board.GP16) #These are defineing which LED is which
 led.direction = digitalio.Direction.OUTPUT
 led2.direction = digitalio.Direction.OUTPUT
 button = digitalio.DigitalInOut(board.GP0)
@@ -96,15 +100,12 @@ while True:
       time.sleep(.25)
     time.sleep(.25)
     print("liftoff")
-    while True:
+    while True: #This is to turn on the green LED
       led2.value = True
 
 ### Reflection
-This assignment was pretty straight foward. It may be helpful to know that the button has four legs but you only need 2.
+This assignment was pretty straight foward. It may be helpful to know that the button has four legs but you only need 2. Make sure that you dont mix up the pin number with the numbering on the side of the pico.
 
-## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
-* [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
 
@@ -141,7 +142,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 [https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 ](https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/crashaviodence.py)
 ### Reflection
-Assignment was straight forward but make sure you READ DIRECTIONS. It is easy to miss small but important things.
+Assignment was straight forward but make sure you READ DIRECTIONS. It is easy to miss small but important things. It is important to copy chunks of code as a wrong capitalization or somthing small can mess it up.
 
 &nbsp;
 
@@ -159,7 +160,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 
 ### Reflection
-Make sure you run the code on the pico in code.py, and make sure the battery is charged.
+Make sure you run the code on the pico in code.py, and make sure the battery is charged. Also, code.py is special, you can not just make a document called code.py and expect it to work the same. I tried that and it did not work the same.
 
 &nbsp;
 
@@ -178,7 +179,7 @@ The module must have an accelerometer that continuously reports x, y, and z acce
 https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/code.py
 
 ### Reflection
-Read directionas and make sure you use the right code for each device.
+Read directionas and make sure you use the right address for each device. Remember that the one you unplug is the one that wont run on the moniter. It is easy to mix up.
 
 
 &nbsp;
