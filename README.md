@@ -225,6 +225,28 @@ It is helpful to remember that when doing I2c stuff with only one I2C device, yo
 
 &nbsp;
 
+## Morse code part 1
+
+### Description
+Your script must accept text input by the user.If the user types “-q”, your script must exit.If the user types anything else, your script must translate the text to morse code dots and dashes, and print those to the monitor.The printed text must use a space to show breaks between letters, and a slash to show breaks between words
+
+
+### Evidence
+
+
+<img src="https://im.ezgif.com/tmp/ezgif-1-3e4d7569bc.gif" alt="[video-to-gif output image]"/>![image](https://user-images.githubusercontent.com/71349802/198169273-b726bccc-cec4-45b9-8388-f86436c95b84.png)
+
+
+### Wiring
+NONE
+
+### Code
+https://github.com/tslingl25/Engineering_4_Notebook/blob/main/raspberry-pi/Morsecode1.py
+
+### Reflection
+This assignment requires a step in which you sequence the libray with the code. It allows you to run through the libray and get the letter you want and translate it. Asking neighbors for help is always useful.
+
+&nbsp;
 
 ## Onshape_Assignment_Template
 
