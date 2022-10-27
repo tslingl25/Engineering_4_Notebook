@@ -73,7 +73,6 @@ Countdown from 10 seconds to 0 (liftoff). Print that countdown to the serial mon
 
 
 ### Code
-# type: ignore
 import board
 import digitalio
 import time
