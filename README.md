@@ -248,35 +248,30 @@ This assignment requires a step in which you sequence the libray with the code. 
 
 &nbsp;
 
-## Onshape_Assignment_Template
+Beam_part_1
+Assignment Description
+Make a beam and see how much weight it can support before it bends beyond a certain point or snaps.
 
-### Assignment Description
+Part Link
+link to the beam in onshape.
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Part Image
+Picture of the Beam
 
-### Part Link 
+Reflection
+We decided on making a modified I beam with a large supporting bottom beam and small, thick tab on the top. We cut out a lot of holes in the bottom support and circles throughout the beam to take weight off so we had more material to work with. We figured that we should make the part around the hole where the weight is supported flat to better support it and not bend the beam one way or another.
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+ 
 
-### Part Image
+Beam_part_2
+Assignment Description
+Run the beam through a simulator to see where the weak points are.
 
-Take a nice screenshot of your Onshape document. 
+Part Link
+link to the beam in onshape.
 
-### Reflection
+Part Image
+Picture of the Beam
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-&nbsp;
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-[earth](https://www.google.com/maps)
-### Test Image
-![Baseball](images/usa-mlb-baseball.jpg)
-### Test GIF
- ![Weird orange gif thing](images/weird%20orange%20thing.gif)
-
-
+Reflection
+The main weak points of the beam were right where it connected to the supporting block, where the support piece on the top ended and near the hole. For the two points on the top of the beam we just cut out more material from the middle and just made the support piece longer and thicker as well as removing some 90 degree edges which were showing up as weak points. For the part near the hole, we made a large slanted support piece coming down from the top of the beam to the flat part near the hole, which solved the problem.  
