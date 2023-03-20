@@ -280,7 +280,8 @@ Run the beam through a simulator to see where the weak points are.
 
 ### Part Image
 
-![Picture of the Beam](https://github.com/nmckee78/Engineering_4_Notebook/blob/main/images/Beam%20screenshot.PNG) 
+![Picture of the Beam]![gbbbbbbbbb](https://user-images.githubusercontent.com/71349802/226422362-04ab5653-73b0-41ee-af75-71957b48fd1d.PNG)
+
 
 ### Reflection
 
