@@ -288,4 +288,22 @@ Run the beam through a simulator to see where the weak points are.
 The main weak points of the beam were right where it connected to the supporting block, where the support piece on the top ended and near the hole. For the two points on the top of the beam we just cut out more material from the middle and just made the support piece longer and thicker as well as removing some 90 degree edges which were showing up as weak points. For the part near the hole, we made a large slanted support piece coming down from the top of the beam to the flat part near the hole, which solved the problem.
 &nbsp;
 
+## Final design test
 
+### Assignment Description
+
+We designed a beam that should exceed the strength of our last test.
+
+### Part Link 
+
+[link to the beam in onshape](https://cvilleschools.onshape.com/documents/33575ab88dc8f7928befb042/w/38921909f117f23a72e1cbeb/e/b1f9443dbe8499829a3eab5c?renderMode=0&uiState=6373dab89a584e328ce74f06). 
+
+### Part Image
+
+![Picture of the Beam]![gbbbbbbbbb](https://user-images.githubusercontent.com/71349802/226422362-04ab5653-73b0-41ee-af75-71957b48fd1d.PNG)
+
+
+### Reflection
+
+The main weak points of the beam were right where it connected to the supporting block, where the support piece on the top ended and near the hole. For the two points on the top of the beam we just cut out more material from the middle and just made the support piece longer and thicker as well as removing some 90 degree edges which were showing up as weak points. For the part near the hole, we made a large slanted support piece coming down from the top of the beam to the flat part near the hole, which solved the problem.
+&nbsp;
