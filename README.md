@@ -315,8 +315,7 @@ I have to follow directions and design a key and prop according to specification
 
 [link to the beam in onshape]https://cvilleschools.onshape.com/documents/de7d1d57a5f209eeb9e1978b/w/286061655ed2639764cdf17a/e/df686bf62ddeaaeb950913a6
 ### Part Image
-
-![Picture of the Beam]![image](https://user-images.githubusercontent.com/71349802/226690430-bf9f4ee1-8cb5-4bd8-a058-612f16495dad.png)
+![image](https://user-images.githubusercontent.com/71349802/226690430-bf9f4ee1-8cb5-4bd8-a058-612f16495dad.png)
 
 
 ### Reflection
