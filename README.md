@@ -296,14 +296,30 @@ We designed a beam that should exceed the strength of our last test.
 
 ### Part Link 
 
-[link to the beam in onshape](https://cvilleschools.onshape.com/documents/33575ab88dc8f7928befb042/w/38921909f117f23a72e1cbeb/e/b1f9443dbe8499829a3eab5c?renderMode=0&uiState=6373dab89a584e328ce74f06). 
-
+[link to the beam in onshape]https://cvilleschools.onshape.com/documents/33575ab88dc8f7928befb042/w/38921909f117f23a72e1cbeb/e/42cff02169da6dbb636690c4
 ### Part Image
 
-![Picture of the Beam]![gbbbbbbbbb](https://user-images.githubusercontent.com/71349802/226422362-04ab5653-73b0-41ee-af75-71957b48fd1d.PNG)
+![Picture of the Beam]![image](https://user-images.githubusercontent.com/71349802/226688519-fdb18e1c-224a-447e-ae7f-65d1206da424.png)
 
 
 ### Reflection
 
-The main weak points of the beam were right where it connected to the supporting block, where the support piece on the top ended and near the hole. For the two points on the top of the beam we just cut out more material from the middle and just made the support piece longer and thicker as well as removing some 90 degree edges which were showing up as weak points. For the part near the hole, we made a large slanted support piece coming down from the top of the beam to the flat part near the hole, which solved the problem.
-&nbsp;
+On ths beam the conecetions were plenty strong, exept the middle portion was two thin to keep the top of the beam from twisting. The beam twisted sideways under the weight, compromiseing the general structue of it. This did not show up in the sim because the sim did not take into account side to side twisting.
+
+## Key and prop
+
+### Assignment Description
+I have to follow directions and design a key and prop according to specifications.
+
+### Part Link 
+
+[link to the beam in onshape]https://cvilleschools.onshape.com/documents/de7d1d57a5f209eeb9e1978b/w/286061655ed2639764cdf17a/e/df686bf62ddeaaeb950913a6
+### Part Image
+
+![Picture of the Beam]![image](https://user-images.githubusercontent.com/71349802/226690430-bf9f4ee1-8cb5-4bd8-a058-612f16495dad.png)
+
+
+### Reflection
+
+On this assignment I was assigned to the key and prop and my partner was assigned to the ring and spinner. The key and prop was hard but I got through it. The hardest part was makeing all the props properly connect to the middle part. Extrudeing up to face helps ensure a clean connection and bolleans help remove excess.
+
